@@ -44,17 +44,12 @@
 <br>
 
 <h3 align="left">GitHub Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=Tibetxx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tibetxx&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tibetxx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tibet&show_icons=true&locale=en&layout=compact" alt="Tibet" /></p>
 
-<h3 align="left">Top Contributed Repo:</h3>
-![](https://github-contributor-stats.vercel.app/api?username=Tibetxx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tibet&show_icons=true&locale=en" alt="Tibet" /></p>
 
-<h3 align="left">Random Dev Quote:</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tibet&" alt="Tibet" /></p>
+
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
