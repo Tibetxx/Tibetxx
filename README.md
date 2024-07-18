@@ -33,7 +33,7 @@
 <a href="https://twitter.com/its___sujaan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its___sujaan25" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sksujaanmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sksujaanmondal" height="30" width="40" /></a>
 <a href="https://instagram.com/sujaanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujaanz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tobii.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Tobii.x" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/SuJaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Tobii.x" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -44,11 +44,12 @@
 <br>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tibet&show_icons=true&locale=en&layout=compact" alt="Tibet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tibet&show_icons=true&locale=en" alt="Tibet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tibet&" alt="Tibet" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tibet&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Tibet" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tibet&show_icons=true&locale=en&theme=tokyonight" alt="Tibet" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tibet&&theme=tokyonight" alt="Tibet" /></p>
 
 <br>
 
