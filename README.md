@@ -1,6 +1,3 @@
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/795342586986102815)](https://discord.com/users/795342586986102815)
-
 <h1 align="Center">
     <br>
     Welcome to My Github Profile 
